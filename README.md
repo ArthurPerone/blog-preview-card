@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-flexbox-6saySwQLTq)
 - Live Site URL: [Live site](https://arthurperone.github.io/blog-preview-card/)
 
 ## My process
